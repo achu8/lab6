@@ -59,5 +59,3 @@ function changeColor(result) {
   	$('p').css('color', colors[3]);
   	$('.project img').css('opacity', .75);
 }
-
-function 
